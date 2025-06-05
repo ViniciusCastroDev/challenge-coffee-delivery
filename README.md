@@ -25,7 +25,7 @@ Este é um aplicativo de entrega de café que permite aos usuários encontrar e 
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/ViniciusCastroDev/challenge-coffee-delivery.git>
    cd challenge-coffee-delivery
    ```
 
